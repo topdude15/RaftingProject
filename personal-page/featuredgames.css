@@ -1,0 +1,22 @@
+#games {
+	display: flex;
+	padding-top: 2%;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.game {
+	width: 33%;
+}
+.game h2 {
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+}
+.game p {
+	font-family: "Titillium Web", sans-serif;
+	text-align: center;
+}
+.game img {
+	width: 80%;
+	display: block;
+	margin: auto;
+}
